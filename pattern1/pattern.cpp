@@ -7,7 +7,7 @@ int main()
 {
     int n;
     cout << "number pattern" << endl;
-    cout << "enter number :10" << endl;
+    cout << "enter number :" << endl;
     cin >> n;
 
     for (int row = 1; row <= n; row++)
